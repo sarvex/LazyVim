@@ -1,5 +1,13 @@
 # Changelog
 
+## [8.4.0](https://github.com/LazyVim/LazyVim/compare/v8.3.0...v8.4.0) (2023-10-03)
+
+
+### Features
+
+* **options:** enable smoothscroll on nightly ([450e0c6](https://github.com/LazyVim/LazyVim/commit/450e0c6bebc5bb9a0c513cdffaf9c46d5f62d5fa))
+* **options:** enabled treesitter folding and foldtext when available ([19926d2](https://github.com/LazyVim/LazyVim/commit/19926d284862b5e58f29e73b71ec532ac29c54ba))
+
 ## [8.3.0](https://github.com/LazyVim/LazyVim/compare/v8.2.0...v8.3.0) (2023-10-02)
 
 
